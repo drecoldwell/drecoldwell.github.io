@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I am senior at the University of Texas at Austin, graduating in May 2016.
+A weekly blog about my experience taking the Software Engineering course.
 
